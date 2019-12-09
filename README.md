@@ -6,5 +6,11 @@ In this README, I will also keep track of my daily progress with a short descrip
 
 12/4
 Established this repo on local and remotely
-Started notes for Intro sections - A Brief History of Ruby, Computer Science and Layers of Abstraction, and 
-Who This Book is For
+Started notes for Getting Started sections - A Brief History of Ruby, Computer Science and Layers of Abstraction, and 
+Who This Book is For.
+
+12/5
+Finished notes for Getting Started sections - Preparations (Installing Ruby, Using a Code Editor, Stylish Ruby, Reading Documentation, Using the Command Line, What are Ruby Gems?, Debugging with Pry)
+Did exercises in the Preparations section
+Took notes on Intro to Programming section - The Basics
+Did all 7 exercises for section The Basics
